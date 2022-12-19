@@ -1,4 +1,4 @@
-### This repository includes Data and R scripts used for population modelling and analyses in Lyu, S. and Alexander, J. (2023), Compensatory responses of vital rates attenuate impacts of competition on population growth and promote coexistence.  https://www.authorea.com/doi/full/10.22541/au.165469325.59181307
+### This repository includes data and R scripts used for population modelling and analyses in Lyu, S. and Alexander, J. (2023), Compensatory responses of vital rates attenuate impacts of competition on population growth and promote coexistence.  https://www.authorea.com/doi/full/10.22541/au.165469325.59181307
 
 ### There are four data files: 
 #### Estimated_vital_rates.xlsx  
