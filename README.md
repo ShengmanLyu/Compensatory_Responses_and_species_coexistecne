@@ -18,4 +18,4 @@
 > R functions used for IPM, statistical analyses and data visualisation.
 
 #### Modelling and analyses
-> R scripts for statistical analyses and data visualisation (Figures 1-3 in the main text)
+> R scripts for statistical analyses and data visualisation (Figures 1-3 in the main text).
