@@ -4,7 +4,7 @@ https://www.authorea.com/doi/full/10.22541/au.165469325.59181307
 
 # There are three data files: 
  - Estimated_vital_rates.exel:
- - Perturbated_lambda.Rdata:
+ - Perturbated_lambda.RData:
  - Vital_rate_contribution: 
 
 # There are two R files:
