@@ -4,8 +4,8 @@ https://www.authorea.com/doi/full/10.22541/au.165469325.59181307
 
 # There are three data files: 
  - Estimated_vital_rates.exel:
- - Perturbated_lambda.RData:
- - Vital_rate_contribution: 
+ - lambda_perturbed.RData:
+ - lambda_replaced.RData: 
 
 # There are two R files:
 - R functions used for IPM, statistical analyses and data visualisation
