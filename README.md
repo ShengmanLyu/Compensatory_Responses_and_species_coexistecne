@@ -3,9 +3,10 @@ Data and R scripts used for population modelling and analyses in Shengman Lyu an
 https://www.authorea.com/doi/full/10.22541/au.165469325.59181307
 
 # There are three data files: 
- - Estimated_vital_rates.exel:
- - lambda_perturbed.RData:
- - lambda_replaced.RData: 
+ - Estimated_vital_rates.xlsx
+ - lambda_perturbed.RData
+ - lambda_replaced.RData
+ - Coexistence_null.xlsx
 
 # There are two R files:
 - R functions used for IPM, statistical analyses and data visualisation
