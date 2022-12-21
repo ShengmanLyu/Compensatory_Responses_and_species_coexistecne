@@ -2,16 +2,16 @@
 
 ### There are four data files: 
 #### Estimated_vital_rates.xlsx  
-> This file includes the estimated vital rate parameters used for population modelling. R codes on how they were estimated can be found in Lyu, S. and J. M. Alexander (2022). "Competition contributes to both warm and cool range edges." Nature Communications 13(1): 2502. https://doi.org/10.1038/s41467-022-30013-3
+> This file includes the estimated vital rate parameters used for population modelling. Data and R codes on which they were estimated based can be found in Lyu, S. and J. M. Alexander (2022). "Competition contributes to both warm and cool range edges." Nature Communications 13(1): 2502. https://doi.org/10.1038/s41467-022-30013-3
 
 #### lambda_perturbed.RData  
-> These are the projected population growth rates (lambda) of perturbed IPMs used for quantifying vital rate contributions. These can also be computed using provided R codes (see below). 
+> These are the projected population growth rates (lambda) of perturbed IPMs used for quantifying vital rate contributions. These can also be computed using R codes provided below. 
 
 #### lambda_replaced.RData
-> These are the projected population growth rates (lambda) of substituted IPMs when compensatory responses are present vs absent. These can also be computed using provided R codes (see below). 
+> These are the projected population growth rates (lambda) of substituted IPMs when compensatory responses are present vs absent. These can also be computed using R codes  provided below. 
 
 #### Coexistence_null.xlsx
-> This is a template data sheet to store data on niche overlap, relative fitness differences and the outcomes of competition.
+> This is a template data sheet to store estimated niche overlap, relative fitness differences and the outcomes of competition.
 
 ### There are two R files:
 #### Functions  
