@@ -1,6 +1,6 @@
-### This repository includes data and R scripts used for population modelling and analyses in Lyu, S. & Alexander, J.M. (2023) Compensatory responses of vital rates attenuate impacts of competition on population growth and promote coexistence. Ecology Letters, 00, 1– 11. Available from: https://doi.org/10.1111/ele.14167
+#### This repository includes data and R scripts used for population modelling and analyses in Lyu, S. & Alexander, J.M. (2023) Compensatory responses of vital rates attenuate impacts of competition on population growth and promote coexistence. *Ecology Letters*, 00, 1– 11. Available from: https://doi.org/10.1111/ele.14167
 
-### There are four data files: 
+#### There are four data files: 
 #### Estimated_vital_rates.xlsx  
 > This file includes the estimated vital rate parameters used for population modelling. Data and R codes used for estimating vital rate parameters can be found in Lyu, S. and Alexander, J. (2022). "Competition contributes to both warm and cool range edges." Nature Communications 13(1): 2502. https://doi.org/10.1038/s41467-022-30013-3
 
